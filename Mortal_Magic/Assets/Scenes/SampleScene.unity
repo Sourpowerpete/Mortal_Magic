@@ -282,8 +282,8 @@ GameObject:
   m_Component:
   - component: {fileID: 758300468}
   - component: {fileID: 758300467}
-  m_Layer: 0
-  m_Name: MMEXE6_Megaman_0
+  m_Layer: 7
+  m_Name: Megaman
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -327,10 +327,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1709966691
+  m_SortingLayer: 3
   m_SortingOrder: 0
-  m_Sprite: {fileID: 873390316, guid: ceb351747c2cba1449e36632bf70f00d, type: 3}
+  m_Sprite: {fileID: -412943398, guid: 88006f92dc145324096ffc3f335a9cb9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -349,7 +349,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 758300466}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1, y: 0, z: 0}
+  m_LocalPosition: {x: -2.34, y: 1.14, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -367,7 +367,7 @@ GameObject:
   - component: {fileID: 780384819}
   - component: {fileID: 780384818}
   - component: {fileID: 780384817}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -412,8 +412,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -1362247003
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: 681450343, guid: 489b4eb82dd12234ba4073b650e6d2b6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -438,7 +438,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cbf64e655b4aa6248ae15cc72fdfab58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  containedGameObject: {fileID: 0}
+  containedGameObject: {fileID: 758300466}
   currentSprite: {fileID: 0}
 --- !u!4 &780384819
 Transform:
@@ -448,7 +448,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 780384816}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.451, y: 0.994, z: 0}
+  m_LocalPosition: {x: -2.33, y: -1.16, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
