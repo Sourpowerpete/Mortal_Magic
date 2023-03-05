@@ -1,0 +1,2005 @@
+fileFormatVersion: 2
+guid: ceb351747c2cba1449e36632bf70f00d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1176
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e506abe94db8f4a81547b1e765d4dc
+      internalID: 873390316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1119
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8456034978919a3459560929f8cad404
+      internalID: 530481777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1119
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926d66e884740514c9f51389a18aad8e
+      internalID: -663376773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1119
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9cb3b6b3e7bba47a76707ed55536f1
+      internalID: 778767234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1119
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc256efcdde336418075f54c456db56
+      internalID: 2030892098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1119
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c7ee5d985349d4eb5ba0ff186bc641
+      internalID: -2049589641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1119
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68815ef97d02942418c075a3898d8253
+      internalID: -1832555796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1119
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15086a5c1cf9374ba565acf6b72a894
+      internalID: -1777954636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1119
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ce5796d32310045affc315e0c59273
+      internalID: -1523387366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1062
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619e6c92f72129f4484b85471269b2fc
+      internalID: -1454307724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 998
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5574bd4dba66e4d8887055e391e571
+      internalID: -1510189498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 997
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2300024dc8d53104ead0ee15eab4c287
+      internalID: -381987634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1000
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc068663af6636e46857e0cf8257aa4f
+      internalID: 1081278435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 928
+        width: 36
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a03521ff5744854ca9fa6d32ccf77b4
+      internalID: 1147242048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 997
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44684a982a5e1af4fa1d7beed2c09192
+      internalID: 1135709968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 928
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2284e7927c42ae54fb1458ba191b0414
+      internalID: 1558341567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 928
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae03527b92679c40bcb910613bba32a
+      internalID: 1208315647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 928
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde8054ee9cd0fb40a36d426f132dada
+      internalID: 107905962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 932
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16baaed2d498554185ac7a85ff37e97
+      internalID: 1228132259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 929
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f2b5c7064b32b408aec9bfe0a6eb2a
+      internalID: 1186008370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 872
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f049cf2e66b644db8c5380234a5b2c
+      internalID: 233901972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_21
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 872
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da5cd840ce3ea24f8fae86c1766b70d
+      internalID: 10288026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 872
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39125f78f3080864bbe5661ce55704c9
+      internalID: -334844247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 872
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c033388b76491a4d881748a23e61ed5
+      internalID: 863024607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 806
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292b76e45ccae98419df1a2905bbc88d
+      internalID: -1883686374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_25
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 806
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef17084f6cd39744591ea9668bd641ac
+      internalID: -1013628279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 806
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e701adbcea7104c923f46243e9b299
+      internalID: 1711527959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_27
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 806
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c013886e4352d47bd5ee0b848bdb2a
+      internalID: -1778052346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_28
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 806
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b864468fba5fa2045a4d71e158bf8537
+      internalID: 1763614136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_29
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 806
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efee8e05e603694198f1746ff1df1ce
+      internalID: 318166622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_30
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 806
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5bce868d4ba714ea91fcf6de824783
+      internalID: -1269356870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 754
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3b6f1842ded0e44936b13bae9d10ee
+      internalID: -125627592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_32
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 754
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc546e416c941142b59b5920a860d88
+      internalID: 258102708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 754
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2925eed36755dcc4ba90642fc1a714a4
+      internalID: -1916935289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_34
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 754
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19830a88b7585ca4d9dec7c43c9d1671
+      internalID: -1003824620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_35
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 702
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbab9de4cab195d4a8c191a7ffe66cf7
+      internalID: 366702301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_36
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 702
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0821d2cd293c7d14da7edd9d7168759f
+      internalID: -511444724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_37
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 702
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac19b9aa91db2f499f84de6559787d7
+      internalID: -1122808748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_38
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 702
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57d95c9cb8c669459efec117974b7c7
+      internalID: 1844547113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_39
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 702
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408fd610b677eb640b28b699abbe2c81
+      internalID: -994432579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_40
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 702
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08eea1657d4cde145b2bab37113f4a29
+      internalID: -1950032169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_41
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 702
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa4d513f79a2d645925e65a46d4ae9b
+      internalID: -1745939112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_42
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 702
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e730a2fdfa0ef47806f89ec890536f
+      internalID: 227045488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_43
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 650
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a29750be36d0cb449fda695dc6f25cc
+      internalID: 243741223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_44
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 650
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20671fbfc947574cbd729916b5dae85
+      internalID: -1986070730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 650
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e8827fc6cc09e449e7e82d7f6cd825
+      internalID: -851947340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_46
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 650
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f80376267d6a2544bc64e045e7dc572
+      internalID: 1325616163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 598
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde85bdbe45c4414884a975544cd2009
+      internalID: 1041799566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 546
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4bfdf6d4e1aeb4b8a3e05201130f52
+      internalID: 10021785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_49
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 546
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0ad22ca403cd04ca8a6ee57671684e
+      internalID: -372185285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 546
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e18a92e75e9f146864f9ad7ebfb551
+      internalID: -470720266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_51
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 546
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f61961cc6eab342b218654fbef15bd
+      internalID: 1495789329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 488
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ffb7af376b67c4ebdbc1947ae0409f
+      internalID: -563591311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_53
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 488
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64d8dcdde7f48841a1b1e31cc89a612
+      internalID: 1310358582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_54
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 488
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf90b4471d43204aaaa7bc0894c618a
+      internalID: -1977189817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_55
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 488
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0224689467c4b48b44f93b100106e0
+      internalID: -1541082484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_56
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 436
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d049d681d334c4e9ded897516d7377
+      internalID: -1489003879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_57
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 436
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93033d860826c643a0c0364f969e975
+      internalID: 349850865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_58
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 384
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8a71b1e6012b44c8c92965a800bcab
+      internalID: -2113636051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_59
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 384
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ee02cdacecd344e849fe5370c982de
+      internalID: 194058797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad4e0e7671636047ba91110e69ad17d
+      internalID: -421606356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_61
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 384
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9147e8279394d4e9e695c1a51f51ad
+      internalID: 211963153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_62
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 334
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23866593671c62549b2df06950c52567
+      internalID: -1286426252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_63
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 284
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb764e6bd90b2664791147174f2532c6
+      internalID: -571567619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_64
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 284
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4623730fec451cf4a804cfe8eb677a1c
+      internalID: -1969055738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 284
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f5ce3d4e969f64f9082bdb5080c6c4
+      internalID: -2098665505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_66
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 284
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed926093e8cf804a952442ef0070c68
+      internalID: -2062187441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_67
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 232
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71245e2f310a5824985279a310a197fb
+      internalID: 1615921436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_68
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 232
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16df6ea2584f20647be90879b5f3682d
+      internalID: -900430936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_69
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 174
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385d605680709a744a7a7bf699c1cf81
+      internalID: -1015811454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 118
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7630bb6c7bccc46418ffd18edd50a0bc
+      internalID: -1543922140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_71
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 118
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5572de495746cba4aae379716e258f4d
+      internalID: -1864250112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_72
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 118
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb40bcc35841f6844b96c2dbf6d818e8
+      internalID: 2008544440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 118
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1110b916ff6fe341a21b0f141d78a89
+      internalID: -1300929616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_74
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 121
+        width: 126
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a4803e7ef7df24bb8801ddc3dcd418
+      internalID: -882358801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_75
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 70
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde603e7c0466834f90d205e53db244d
+      internalID: -180451194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_76
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 92
+        width: 126
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b5196300cf5004bbc98aceae65eeba
+      internalID: 844330758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_77
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 63
+        width: 126
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8839a70199f747458e17900f9066446
+      internalID: -181374724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_78
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 50
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6a4d73edb09dc49a49aa03a386db23
+      internalID: -698492275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_79
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 50
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24849f9e268f54a45a34130b3ffe4b73
+      internalID: -1321073878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_80
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 34
+        width: 126
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91878045d4692ab40a469c7fdb7e9c99
+      internalID: 368407061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_81
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 30
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344f6af1ea7f7104e8348a969b1565c9
+      internalID: 1999574598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_82
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 5
+        width: 126
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d1e86dc538d1842aa05a10f2cfc664
+      internalID: -714548095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_83
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 10
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c909711c58cbee942bc9d516c599cd76
+      internalID: 945341415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMEXE6_Megaman_84
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 10
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4a3383b0bf74446a1687185f9ad60c
+      internalID: -2099917489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MMEXE6_Megaman_0: 873390316
+      MMEXE6_Megaman_1: 530481777
+      MMEXE6_Megaman_10: -1510189498
+      MMEXE6_Megaman_11: -381987634
+      MMEXE6_Megaman_12: 1081278435
+      MMEXE6_Megaman_13: 1147242048
+      MMEXE6_Megaman_14: 1135709968
+      MMEXE6_Megaman_15: 1558341567
+      MMEXE6_Megaman_16: 1208315647
+      MMEXE6_Megaman_17: 107905962
+      MMEXE6_Megaman_18: 1228132259
+      MMEXE6_Megaman_19: 1186008370
+      MMEXE6_Megaman_2: -663376773
+      MMEXE6_Megaman_20: 233901972
+      MMEXE6_Megaman_21: 10288026
+      MMEXE6_Megaman_22: -334844247
+      MMEXE6_Megaman_23: 863024607
+      MMEXE6_Megaman_24: -1883686374
+      MMEXE6_Megaman_25: -1013628279
+      MMEXE6_Megaman_26: 1711527959
+      MMEXE6_Megaman_27: -1778052346
+      MMEXE6_Megaman_28: 1763614136
+      MMEXE6_Megaman_29: 318166622
+      MMEXE6_Megaman_3: 778767234
+      MMEXE6_Megaman_30: -1269356870
+      MMEXE6_Megaman_31: -125627592
+      MMEXE6_Megaman_32: 258102708
+      MMEXE6_Megaman_33: -1916935289
+      MMEXE6_Megaman_34: -1003824620
+      MMEXE6_Megaman_35: 366702301
+      MMEXE6_Megaman_36: -511444724
+      MMEXE6_Megaman_37: -1122808748
+      MMEXE6_Megaman_38: 1844547113
+      MMEXE6_Megaman_39: -994432579
+      MMEXE6_Megaman_4: 2030892098
+      MMEXE6_Megaman_40: -1950032169
+      MMEXE6_Megaman_41: -1745939112
+      MMEXE6_Megaman_42: 227045488
+      MMEXE6_Megaman_43: 243741223
+      MMEXE6_Megaman_44: -1986070730
+      MMEXE6_Megaman_45: -851947340
+      MMEXE6_Megaman_46: 1325616163
+      MMEXE6_Megaman_47: 1041799566
+      MMEXE6_Megaman_48: 10021785
+      MMEXE6_Megaman_49: -372185285
+      MMEXE6_Megaman_5: -2049589641
+      MMEXE6_Megaman_50: -470720266
+      MMEXE6_Megaman_51: 1495789329
+      MMEXE6_Megaman_52: -563591311
+      MMEXE6_Megaman_53: 1310358582
+      MMEXE6_Megaman_54: -1977189817
+      MMEXE6_Megaman_55: -1541082484
+      MMEXE6_Megaman_56: -1489003879
+      MMEXE6_Megaman_57: 349850865
+      MMEXE6_Megaman_58: -2113636051
+      MMEXE6_Megaman_59: 194058797
+      MMEXE6_Megaman_6: -1832555796
+      MMEXE6_Megaman_60: -421606356
+      MMEXE6_Megaman_61: 211963153
+      MMEXE6_Megaman_62: -1286426252
+      MMEXE6_Megaman_63: -571567619
+      MMEXE6_Megaman_64: -1969055738
+      MMEXE6_Megaman_65: -2098665505
+      MMEXE6_Megaman_66: -2062187441
+      MMEXE6_Megaman_67: 1615921436
+      MMEXE6_Megaman_68: -900430936
+      MMEXE6_Megaman_69: -1015811454
+      MMEXE6_Megaman_7: -1777954636
+      MMEXE6_Megaman_70: -1543922140
+      MMEXE6_Megaman_71: -1864250112
+      MMEXE6_Megaman_72: 2008544440
+      MMEXE6_Megaman_73: -1300929616
+      MMEXE6_Megaman_74: -882358801
+      MMEXE6_Megaman_75: -180451194
+      MMEXE6_Megaman_76: 844330758
+      MMEXE6_Megaman_77: -181374724
+      MMEXE6_Megaman_78: -698492275
+      MMEXE6_Megaman_79: -1321073878
+      MMEXE6_Megaman_8: -1523387366
+      MMEXE6_Megaman_80: 368407061
+      MMEXE6_Megaman_81: 1999574598
+      MMEXE6_Megaman_82: -714548095
+      MMEXE6_Megaman_83: 945341415
+      MMEXE6_Megaman_84: -2099917489
+      MMEXE6_Megaman_9: -1454307724
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
