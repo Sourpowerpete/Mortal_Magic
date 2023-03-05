@@ -48,8 +48,10 @@ public class PanelScript : MonoBehaviour
 
     public void SetContainedGameObject(GameObject givenGameObject)
     {
-        return;
+        containedGameObject = givenGameObject;
     }
+
+    public GameObject GetContainedGameObject() { return containedGameObject; }
 
 
 }
