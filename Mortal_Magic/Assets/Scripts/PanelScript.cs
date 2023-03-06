@@ -5,10 +5,14 @@ using UnityEngine;
 public class PanelScript : MonoBehaviour
 {
     public GameObject containedGameObject;
+
+    public Animator spriteAnimator;
     public Sprite currentSprite;
 
     public int x;
     public int y;
+
+    public bool playerOwned;
 
 
 
@@ -19,14 +23,19 @@ public class PanelScript : MonoBehaviour
         containedGameObject.transform.position = new Vector3(this.gameObject.transform.position.x, this.gameObject.transform.position.y - this.GetComponent<SpriteRenderer>().bounds.size.y / 3 + containedGameObject.GetComponent<SpriteRenderer>().bounds.size.y / 2, this.gameObject.transform.position.z);
         x = 1;
         y = 1;
+        playerOwned = true;
 
-
+        spriteAnimator = GetComponent<Animator>();
+        spriteAnimator.SetBool("PlayerOwned", playerOwned);
+        spriteAnimator.SetInteger("Y", y);
+        spriteAnimator.SetInteger("Type", 0);
     }
 
     // Update is called once per frame
     void Update()
     {
-
+        spriteAnimator.SetBool("PlayerOwned", playerOwned);
+        spriteAnimator.SetInteger("Y", y);
     }
 
     public void SetX(int givenX)
