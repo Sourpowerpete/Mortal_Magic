@@ -62,6 +62,19 @@ public class PanelScript : MonoBehaviour
         containedGameObject = givenGameObject;
     }
 
+    public void MoveToPanel(GameObject givenGameObject)
+    {
+        if (containedGameObject != null)
+        {
+            if (givenGameObject != null)
+            {
+                containedGameObject = givenGameObject;
+
+                containedGameObject.transform.position = new Vector3(this.transform.position.x, this.transform.position.y, this.transform.position.z);
+            }
+        }
+    }
+
     public GameObject GetContainedGameObject() { return containedGameObject; }
 
     public void SetPlayerOwned(bool givenPlayerOwned)

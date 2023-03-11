@@ -33,6 +33,8 @@ public class GridManagerScript : MonoBehaviour
                    grid[count].GetComponent<PanelScript>().SetPlayerOwned(true);
                }
 
+                grid[count].transform.parent = this.transform;
+
                 count++;
             }
         }
