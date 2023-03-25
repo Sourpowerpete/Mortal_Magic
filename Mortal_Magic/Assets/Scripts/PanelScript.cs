@@ -20,15 +20,14 @@ public class PanelScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        containedGameObject.transform.position = new Vector3(this.gameObject.transform.position.x, this.gameObject.transform.position.y - this.GetComponent<SpriteRenderer>().bounds.size.y / 3 + containedGameObject.GetComponent<SpriteRenderer>().bounds.size.y / 2, this.gameObject.transform.position.z);
-        x = 1;
-        y = 1;
-        playerOwned = true;
+        if (containedGameObject != null)
+        {
+            containedGameObject.transform.position = new Vector3(this.gameObject.transform.position.x, this.gameObject.transform.position.y - this.GetComponent<SpriteRenderer>().bounds.size.y / 3 + containedGameObject.GetComponent<SpriteRenderer>().bounds.size.y / 2, this.gameObject.transform.position.z);
+        }
+            //x = 1;
+            //y = 1;
 
-        spriteAnimator = GetComponent<Animator>();
-        spriteAnimator.SetBool("PlayerOwned", playerOwned);
-        spriteAnimator.SetInteger("Y", y);
-        spriteAnimator.SetInteger("Type", 0);
+            spriteAnimator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -43,7 +42,10 @@ public class PanelScript : MonoBehaviour
         x = givenX;
     }
 
-    public void SetY(int givenY) { y = givenY; }
+    public void SetY(int givenY) 
+    {
+        y = givenY;
+    }
 
     public int GetX()
     {
@@ -60,7 +62,27 @@ public class PanelScript : MonoBehaviour
         containedGameObject = givenGameObject;
     }
 
+    public void MoveToPanel(GameObject givenGameObject)
+    {
+        if (containedGameObject != null)
+        {
+            if (givenGameObject != null)
+            {
+                containedGameObject = givenGameObject;
+
+                containedGameObject.transform.position = new Vector3(this.transform.position.x, this.transform.position.y, this.transform.position.z);
+            }
+        }
+    }
+
     public GameObject GetContainedGameObject() { return containedGameObject; }
 
-
+    public void SetPlayerOwned(bool givenPlayerOwned)
+    {
+        playerOwned = givenPlayerOwned;
+    }
+    public bool GetPlayerOwned()
+    {
+        return playerOwned;
+    }
 }
