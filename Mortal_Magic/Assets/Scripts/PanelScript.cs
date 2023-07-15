@@ -7,7 +7,6 @@ public class PanelScript : MonoBehaviour
     public GameObject containedGameObject;
 
     public Animator spriteAnimator;
-    public Sprite currentSprite;
 
     public int x;
     public int y;
