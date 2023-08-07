@@ -133,7 +133,8 @@ GameObject:
   m_Component:
   - component: {fileID: 227001937}
   - component: {fileID: 227001936}
-  - component: {fileID: 227001935}
+  - component: {fileID: 227001938}
+  - component: {fileID: 227001939}
   m_Layer: 0
   m_Name: Panels_exe6_y1_0
   m_TagString: Untagged
@@ -141,23 +142,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &227001935
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 227001934}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b7a16a0493802924493d39d26b9b49c0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  yLevelSprites:
-  - {fileID: -574602775, guid: f3bfd095457051642adc47a4b8abd2d6, type: 3}
-  - {fileID: 1362609478, guid: 3d6d484cf82827e46abcd31b099ab2d4, type: 3}
-  - {fileID: 1625403025, guid: 79e244ce5cbfce94b849eb34a5b1b35e, type: 3}
-  mySpriteRenderer: {fileID: 0}
 --- !u!212 &227001936
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -225,6 +209,44 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &227001938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 227001934}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbf64e655b4aa6248ae15cc72fdfab58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  containedGameObject: {fileID: 227001934}
+  spriteAnimator: {fileID: 0}
+  x: 0
+  y: 0
+  playerOwned: 0
+--- !u!95 &227001939
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 227001934}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ee14482684b1a434c90dc07bd4ed8a94, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0

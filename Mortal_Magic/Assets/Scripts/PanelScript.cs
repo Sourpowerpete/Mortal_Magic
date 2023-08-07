@@ -21,19 +21,22 @@ public class PanelScript : MonoBehaviour
     {
         if (containedGameObject != null)
         {
+            //Positions the gameObject and centers it on the panel automatically
             containedGameObject.transform.position = new Vector3(this.gameObject.transform.position.x, this.gameObject.transform.position.y - this.GetComponent<SpriteRenderer>().bounds.size.y / 3 + containedGameObject.GetComponent<SpriteRenderer>().bounds.size.y / 2, this.gameObject.transform.position.z);
         }
-            //x = 1;
-            //y = 1;
+            //Test Values
+            x = 1;
+            y = 3;
 
-            spriteAnimator = GetComponent<Animator>();
+            spriteAnimator = GetComponent<Animator>(); //Gets a reference to the Animator
     }
 
     // Update is called once per frame
     void Update()
     {
+        //Test calls to see if the Animator works properly
         spriteAnimator.SetBool("PlayerOwned", playerOwned);
-        spriteAnimator.SetInteger("Y", y);
+        spriteAnimator.SetInteger("Y", y);  
     }
 
     public void SetX(int givenX)
@@ -61,15 +64,16 @@ public class PanelScript : MonoBehaviour
         containedGameObject = givenGameObject;
     }
 
+    //Moves a gameObject into the current Panel
     public void MoveToPanel(GameObject givenGameObject)
     {
-        if (containedGameObject != null)
+        if (containedGameObject == null) //If nothing is on the panel...
         {
-            if (givenGameObject != null)
+            if (givenGameObject != null)//and the given object isn't null...
             {
-                containedGameObject = givenGameObject;
+                containedGameObject = givenGameObject;  //Panel now contains the gameObject
 
-                containedGameObject.transform.position = new Vector3(this.transform.position.x, this.transform.position.y, this.transform.position.z);
+                containedGameObject.transform.position = new Vector3(this.transform.position.x, this.transform.position.y, this.transform.position.z); //and positions it (doesn't look centered to me)
             }
         }
     }
